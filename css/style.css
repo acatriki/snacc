@@ -24,10 +24,10 @@ body, html{
 	min-width: 100%;
 	min-height: 100%;
 }
-/*.pimg1{
+.pimg1{
 	background-image:url('../websitebackground3.mp4');
 	min-height:99%;
-}*/
+}
 
 .pimg2{
 	background-image:url('../Unbenannt-1.gif');
